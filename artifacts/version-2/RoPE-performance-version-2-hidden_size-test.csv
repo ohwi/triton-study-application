@@ -1,0 +1,4 @@
+hidden_size,Torch Native,Transformer Engine (Fused),Triton
+128.0,18.4,5.2,5.0
+256.0,36.8,11.1,10.2
+512.0,73.4,24.2,22.1
